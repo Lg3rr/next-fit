@@ -1,0 +1,6 @@
+{
+  "name": "Next Fit",
+  "description": "100% offline high-performance workout and fitness tracking application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
